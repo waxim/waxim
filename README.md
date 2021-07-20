@@ -1,7 +1,7 @@
 ### 🦄 Alan Cole
 
 
-__CTO, VP of Engineering__ Problem Solver, Technical Leader,Polyglot Engineer, Technology Lover, Formula 1 Obsessive.
+__CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, Technology Lover, Formula 1 & Musical Theatre Obsessive.
 
 
 ### ⭐ Highlights
