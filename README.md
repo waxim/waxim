@@ -6,11 +6,11 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
 
 ### ⭐ Highlights
 
-- CTO for leading Sports Tech company MatchPint, overseeinga series of digital transformation projects and buildingsolidengineering practises and culture.
+- CTO for leading Sports Tech company MatchPint, overseeing a series of digital transformation projects and building solid engineering practises and culture.
 
 - Technical architect and Lead engineer for the membership mobilization team at The Labour Party.
 
-- VP of Engineering at a fintech startup, building anengineering team from 4 to 24 in 6 months, designedand implemented thetechnical strategy to break an existing monolith intomicroservices and standardised development workflows.
+- VP of Engineering at a fintech startup, building an engineering team from 4 to 24 in 6 months, designed and implemented the technical strategy to break an existing monolith intomicroservices and standardised development workflows.
 
 - Twice a winner of PayPal’s Charity Hack, leading to the founding of VC backed startup givey.com
 <!--
