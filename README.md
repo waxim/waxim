@@ -8,7 +8,7 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
 
 - CTO for leading Sports Tech company MatchPint, overseeing a series of digital transformation projects and building solid engineering practises and culture.
 
-- Technical architect and Lead engineer for the membership mobilization team at The Labour Party.
+- Technical architect and senior engineer for the membership mobilization team at The Labour Party.
 
 - VP of Engineering at a fintech startup, building an engineering team from 4 to 24 in 6 months, designed and implemented the technical strategy to break an existing monolith intomicroservices and standardised development workflows.
 
