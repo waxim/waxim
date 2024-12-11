@@ -6,9 +6,11 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
 
 ### ⭐ Highlights
 
-- CTO for leading Sports Tech company MatchPint, overseeing a series of digital transformation projects and building solid engineering practises and culture.
+- Technical Architect on CV-Library's transformation to Next.js website and Symfony microservices, using a Kafka events backbone.
 
-- Technical architect and senior engineer for the membership mobilization team at The Labour Party.
+- CTO for leading Sports Tech company Fanzo (formally MatchPint), overseeing a series of digital transformation projects and building solid engineering practises and culture.
+
+- Technical architect and senior engineer for the membership mobilization team at The Labour Party, focusing on their Phone Banking system Dialogue.
 
 - VP of Engineering at a fintech startup, building an engineering team from 4 to 24 in 6 months, designed and implemented the technical strategy to break an existing monolith intomicroservices and standardised development workflows.
 
