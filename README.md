@@ -3,6 +3,10 @@
 
 __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, Technology Lover, Formula 1 & Musical Theatre Obsessive.
 
+### Recent Work
+- Ash: Ash is a new SOTA level LLM project that introduces novel concepts to attention - https://github.com/reins-bank/ash
+
+- Audiobully: Audiobully is a CLI tool for controlling Jukeboxes around the UK, its designed as a skill for AI Agents. - https://waxim.github.io/audiobully/
 
 ### ⭐ Highlights
 
