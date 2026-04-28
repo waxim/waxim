@@ -8,7 +8,7 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
 
 - Audiobully: Audiobully is a CLI tool for controlling Jukeboxes around the UK, its designed as a skill for AI Agents. - https://waxim.github.io/audiobully/
 
-- Butt: A simple command line runner for your mac, define the command and the folder and click to run.  - https://waxim.github.io/butt/
+- Butt: A simple command line runner for your mac, define the command and the folder and click to run.  - https://github.com/waxim/butt
 
 ### ⭐ Highlights
 
