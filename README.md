@@ -12,6 +12,8 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
 
 ### ⭐ Highlights
 
+- CTO at [Founders Factory](https://foundersfactory.com) backed startup [Regeno](https://regeno.farm) where I designed and built complex AI systems and customer facing web and mobile applications. 
+
 - Technical Architect on CV-Library's transformation to Next.js website and Symfony microservices, using a Kafka events backbone.
 
 - CTO for leading Sports Tech company Fanzo (formally MatchPint), overseeing a series of digital transformation projects and building solid engineering practises and culture.
