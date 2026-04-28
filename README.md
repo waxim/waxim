@@ -14,15 +14,15 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
 
 - CTO at [Founders Factory](https://foundersfactory.com) backed startup [Regeno](https://regeno.farm) where I designed and built complex AI systems and customer facing web and mobile applications. 
 
-- Technical Architect on CV-Library's transformation to Next.js website and Symfony microservices, using a Kafka events backbone.
+- Technical Architect on [CV-Library's](https://cv-library.co.uk) transformation to Next.js website and Symfony microservices, using a Kafka events backbone.
 
-- CTO for leading Sports Tech company Fanzo (formally MatchPint), overseeing a series of digital transformation projects and building solid engineering practises and culture.
+- CTO for leading Sports Tech company [Fanzo](https://fanzo.com) (formally MatchPint), overseeing a series of digital transformation projects and building solid engineering practises and culture.
 
-- Technical architect and senior engineer for the membership mobilization team at The Labour Party, focusing on their Phone Banking system Dialogue.
+- Technical architect and senior engineer for the membership mobilization team at [The Labour Party](https://labour.org.uk), focusing on their Phone Banking system Dialogue.
 
-- VP of Engineering at a fintech startup, building an engineering team from 4 to 24 in 6 months, designed and implemented the technical strategy to break an existing monolith intomicroservices and standardised development workflows.
+- VP of Engineering at a fintech ([Chip](https://www.getchip.uk)) startup, building an engineering team from 4 to 24 in 6 months, designed and implemented the technical strategy to break an existing monolith intomicroservices and standardised development workflows.
 
-- Twice a winner of PayPal’s Charity Hack, leading to the founding of VC backed startup givey.com
+- Twice a winner of PayPal’s Charity Hack, leading to the founding of VC backed startup [givey.com](http://givey.com)
 
 ### Skills
 
