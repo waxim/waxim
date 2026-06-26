@@ -4,6 +4,8 @@
 __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, Technology Lover, Formula 1 & Musical Theatre Obsessive.
 
 ### Recent Work
+- Harlan: Harlan is a fully agentic development tool with sandboxes, code reviews and auto merge rules. Can take a slack message and turn it into production deployed code entirely autonomously. https://harlan.sh 
+  
 - Ash: Ash is a new SOTA level LLM project that introduces novel concepts to attention - https://github.com/reins-bank/ash
 
 - Wraith: Wraith is an agent harness that allows you to deligate issues to other agents, with prompt enrichment and smart effort. - https://wraith.im
