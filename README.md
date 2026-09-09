@@ -8,7 +8,7 @@ __CTO, VP of Engineering__ Problem Solver, Technical Leader, Polyglot Engineer, 
   
 - Ash: Ash is a new SOTA level LLM project that introduces novel concepts to attention - https://github.com/reins-bank/ash
 
-- Wraith: Wraith is an agent harness that allows you to deligate issues to other agents, with prompt enrichment and smart effort. - https://wraith.im
+- [Wraith](https://www.npmjs.com/package/wraith-cli): Wraith is an agent harness that allows you to deligate issues to other agents, with prompt enrichment and smart effort.
 
 - Audiobully: Audiobully is a CLI tool for controlling Jukeboxes around the UK, its designed as a skill for AI Agents. - https://waxim.github.io/audiobully/
 
